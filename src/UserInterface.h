@@ -3,13 +3,15 @@
 
 #include "Station.h"
 #include "Train.h"
-#include <bits/stdc++.h>
+//"#include <bits/stdc++.h>" Also can be used.
 #include <string>
 #include <vector>
 #include <map>
 
 class UserInterface {
 public:
+    //This part only defines the type of function and its input parameters
+    //The functionality is in .cpp file (UserInterface.cpp)
     static void displayWelcomeMessage();
     static void getOriginAndDestination(std::string& origin, std::string& destination);
     static std::string getJourneyDate();
@@ -21,4 +23,4 @@ public:
     static void displayErrorMessage(const std::string& message);
 };
 
-#endif // USER_INTERFACE_H
+#endif

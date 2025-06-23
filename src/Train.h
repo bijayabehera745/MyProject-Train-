@@ -12,14 +12,15 @@ struct Train {
     std::string destinationStationCode;
     int travelDurationHours;
     std::map<std::string, double> fares; // Class (e.g., "SL", "3A") -> Fare
+    std::vector<std::string> intermediateStations;
 
     Train() : trainNumber(""), trainName(""), sourceStationCode(""), destinationStationCode(""), travelDurationHours(0) {}
 
     Train(const std::string& num, const std::string& name, const std::string& src,
           const std::string& dest, int duration,
-          const std::map<std::string, double>& f)
+          const std::map<std::string, double>& f,const std::vector<std::string>& routestations)
         : trainNumber(num), trainName(name), sourceStationCode(src),
-          destinationStationCode(dest), travelDurationHours(duration), fares(f) {}
+          destinationStationCode(dest), travelDurationHours(duration), fares(f),intermediateStations(routestations) {}
 };
 
 struct RouteSegment {

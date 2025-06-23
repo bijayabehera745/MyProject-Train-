@@ -20,4 +20,4 @@ private:
     std::shared_ptr<ProbabilityPredictor> probabilityPredictor;
 };
 
-#endif // TRAIN_SEARCHER_H
+#endif
