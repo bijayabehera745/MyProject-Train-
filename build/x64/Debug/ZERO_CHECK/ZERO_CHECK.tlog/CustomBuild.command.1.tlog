@@ -1,0 +1,10 @@
+^C:\USERS\BIJAYA KUMAR BEHERA\DESKTOP\TRAINPROJECT\BUILD\CMAKEFILES\3A83CD9FE89CA16F91E2EA7EA0C021D0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Bijaya kumar Behera/Desktop/TrainProject" "-BC:/Users/Bijaya kumar Behera/Desktop/TrainProject/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Bijaya kumar Behera/Desktop/TrainProject/build/train_predictor.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
