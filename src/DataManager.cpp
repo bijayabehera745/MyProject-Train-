@@ -105,7 +105,6 @@ void DataManager::loadConfirmationRecords(const std::string& filename) {
     file.close();
     std::cout << "Loaded " << confirmationRecords.size() << " confirmation records." << std::endl;
 }
-
 Station* DataManager::findStationByCode(const std::string& code) {
     for (auto& station : stations) {
         if (station.code == code) {
