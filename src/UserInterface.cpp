@@ -2,7 +2,7 @@
 #include "UserInterface.h"
 #include <iostream>
 #include <iomanip>
-#include <ctime>
+#include <chrono>    //For Date and Time
 #include <sstream>
 #include <algorithm> //To use functions like transform
 
@@ -25,7 +25,7 @@ void UserInterface::getOriginAndDestination(std::string& origin, std::string& de
 
 std::string UserInterface::getJourneyDate() {
     std::string dateStr;
-    std::cout << "Enter Journey Date (DDMMYYYY): ";
+    std::cout << "Enter Journey Date (YYYY-MM-DD): ";
     std::cin >> dateStr;
     return dateStr;
 }
