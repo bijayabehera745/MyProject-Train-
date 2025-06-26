@@ -97,10 +97,6 @@ void DataManager::loadTrains(const std::string& filename) {
             std::vector<std::string> routeStations;
             std::string routeString = tokens[8];
 
-             // --- NEW DEBUG PRINT: Verify raw routeString ---
-            std::cout << "DEBUG: Raw Route String: '" << routeString << "' (Length: " << routeString.length() << ")\n";
-            // --- END NEW DEBUG PRINT ---
-
             //Converting CSV input to vector of station codes
              std::stringstream routeSs(routeString);
                 std::string stationCode;
@@ -110,18 +106,7 @@ void DataManager::loadTrains(const std::string& filename) {
                     routeStations.push_back(stationCode);
                 }
             
-                             // --- NEW DEBUG PRINT ---
-                std::cout << "DEBUG: Train " << trainNumber << " Route: [";
-                for (size_t i = 0; i < routeStations.size(); ++i) {
-                    std::cout << routeStations[i];
-                    if (i < routeStations.size() - 1) {
-                        std::cout << ", ";
-                    }
-                }
-                std::cout << "]\n";
-                // --- END NEW DEBUG PRINT ---
-
-
+               
             trains.emplace_back(trainNumber, trainName, source, destination, duration, fares,routeStations);
         } else {
             std::cerr << "Warning: Malformed line in trains.csv (expected at least 8 columns including fare): " << line << std::endl;

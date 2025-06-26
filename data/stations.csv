@@ -4,10 +4,446 @@ KGP,Kharagpur
 CTC,Cuttack
 BBS,Bhubaneswar
 KUR,Khurda Road
-PURI,Puri
+ADI,Ahmedabad Junction
+AGC,Agra Cantt
+AII,Ajmer Junction
+AJJ,Arakkonam
+AJNI,Ajni
+AK,Akola Junction
+ALNI,Alniya
+AN,Amalner
+ANDN,Anand Nagar
+ANG,Ahmadnagar
+ANND,Anand Junction
+ANVT,Anand Vihar Trm
+APR,Anuppur Junction
+ARL,UNKNOWN
+ASN,Asansol Junction
+ASR,Amritsar Junction
+ATT,Atari
+AUS,Anupshahr
+AWB,Aurangabad
+AWY,Aluva
+AY,Ayodhya
+BALU,Balugan
 BAM,Brahmapur
-VSKP,Visakhapatnam
-BZA,Vizianagaram
-SC,Secunderabad
-PUNE,Pune
-MMCT,Mumbai Chhatrapati Shivaji Maharaj Terminus
+BAU,Burhanpur
+BBK,Barabanki Junction
+BBMN,Bari Brahman
+BBS,Bhubaneswar
+BC,Bareilly City
+BCQ,Barachak
+BD,Badnera Junction
+BDHY,Budhi
+BDQ,UNKNOWN
+BDSW,UNKNOWN
+BDTS,Bandra Terminus
+BE,Bareilly
+BEAS,Beas
+BH,Bharuch Junction
+BHB,Badla Ghat
+BHC,Bhadrakh
+BHI,Baheri
+BHL,Bhilwara
+BHP,Bolpur S Niktn
+BHRL,Bharoli
+BHS,Vidisha
+BIDD,UNKNOWN
+BIH,Bairagarh
+BINA,Bina Junction
+BJR,Barrajpur
+BKN,Bikaner Junction
+BLS,Balasore
+BLSD,Balsamand
+BLU,Bilhaur
+BMF,Basmat
+BNSR,UNKNOWN
+BNW,Bhiwani
+BNY,Barhni
+BNZ,Badshahnagar
+BPB,Badarpur Junction
+BPL,Bhopal  Junction
+BPR,Bhojipura Junction
+BPRD,Barpeta Road
+BRC,Vadodara Junction
+BRR,Barakar
+BSB,Varanasi Junction
+BSL,Bhusaval Junction
+BSP,Bilaspur Junction
+BSR,Vasai Road
+BST,Basti
+BTE,Bharatpur Junction
+BTI,Bhatinda Junction
+BUGL,UNKNOWN
+BUGY,UNKNOWN
+BVI,Borivali
+BWC,UNKNOWN
+BZA,Vijayawada Junction
+CAM,UNKNOWN
+CBE,Coimbatore Junction
+CHE,Srikakulam Road
+CHI,Chiplun
+CHNR,Chhan Arorian
+CKDL,Chakdayala
+CKP,Chakradharpur
+CNB,Kanpur Central
+CNGR,Chengannur
+COR,Chittaurgarh
+CPA,Kanpur Anwrganj
+CPH,Champa
+CPJ,Kaptanganj Junction
+CPR,Chhapra
+CSMT,UNKNOWN
+CSN,Chalisgaon Junction
+CTC,Cuttack
+CTKT,Choti Khatu
+CUR,Churu
+DAB,Dharmabad
+DARA,Dara
+DD,Daund Junction
+DDV,Dadhdevi
+DEP,UNKNOWN
+DHN,Dhanbad Junction
+DHT,Dhamara Ghat
+DIA,Didwana
+DKNT,Dakaniya Talav
+DLI,Delhi
+DMN,Dhamangaon
+DMO,Damoh
+DNA,Degana Junction
+DOKM,UNKNOWN
+DOKY,UNKNOWN
+DPA,Durgapura
+DPK,Dholipal
+DPLN,Diplana
+DPT,UNKNOWN
+DQG,Dhupguri
+DR,Dadar
+DSA,Delhi Shahdara
+DSJ,Delhi Safdarjng
+DUE,UNKNOWN
+DUI,Dhuri Junction
+DURG,Durg
+DVD,Duvvada
+DZP,UNKNOWN
+ED,Erode Junction
+ENB,Ellenabad
+ERN,Ernakulam Town
+ET,Itarsi Junction
+FBD,Farrukhabad
+FGR,Fatehgarh
+FL,Phulera Junction
+FSW,UNKNOWN
+G,Gondia Junction
+GADJ,Gandhinagar Jpr
+GAMI,Gogameri
+GD,Gonda Junction
+GHGL,Ghagwal
+GHJ,Gursahaiganj
+GHY,Guwahati
+GJS,Gajsinghpur
+GKP,Gorakhpur Junction
+GOTN,Gotan
+GWL,Gwalior
+GZB,Ghaziabad
+HBD,Hoshangabad
+HD,Harda
+HJI,Hojai
+HLW,UNKNOWN
+HMH,Hanumangarh Junction
+HMO,Hanumangarhtown
+HNL,Hingoli Deccan
+HRNR,Hira Nagar
+HSR,Hisar
+HTE,Hatia
+HW,Haridwar Junction
+HWH,Howrah Junction
+HYB,Hyderabad Decan
+IDH,Idgah Agra Junction
+IGP,Igatpuri
+IZN,Izzatnagar
+JAC,Jalsu
+JACN,Jalsu Nanak
+JAT,Jammu Tawi
+JBP,Jabalpur
+JES,Jaitsar
+JHS,Jhansi Junction
+JJKR,Jajpur K Road
+JKE,Jukehi
+JL,Jalgaon Junction
+JLF,UNKNOWN
+JLWC,UNKNOWN
+JMP,Jamalpur Junction
+JNU,Jaunpur Junction
+JOH,UNKNOWN
+JP,Jaipur
+JRC,Jalandhar Cant
+JRKN,UNKNOWN
+JSG,Jharsuguda Junction
+JSM,Jaisalmer
+JSME,Jasidih Junction
+JTJ,Jolarpettai
+JU,Jodhpur Junction
+JUC,Jalandhar City
+JUDW,Jagadhri Wshop
+JWP,Jwalapur
+KAO,UNKNOWN
+KAP,Kalianpur
+KAWR,Karwar
+KDS,UNKNOWN
+KES,UNKNOWN
+KESR,Kesri Singhpur
+KFA,Koparia
+KGG,Khagaria Junction
+KGP,Kharagpur Junction
+KHED,Khed
+KHH,Kichha
+KHTU,Khatu
+KIW,Kanwalpura
+KJN,Kannauj
+KJT,Karjat
+KK,Khadki
+KKDE,Kurukshetra Junction
+KKNA,Khunkhuna
+KKW,Kankavali
+KLD,Khalilabad
+KLJ,Kamalganj
+KMC,Kamareddi
+KMME,Kumardubi
+KMZ,Katni Murwara
+KNE,Kishanganj
+KNNA,Khinaniyan
+KNW,Khandwa
+KNZ,UNKNOWN
+KOAA,Kolkata
+KOJ,Kokrajhar
+KOP,C Shahumharaj T
+KOTA,Kota Junction
+KPD,Katpadi Junction
+KPG,Kopargaon
+KQW,Kheduli
+KRC,Kiroda
+KRMI,Karmali
+KSG,Kishangarh
+KSJ,Kasganj
+KT,Kumta
+KTE,Katni
+KTHU,Kathua
+KTYM,Kottayam
+KUDA,Kundapura
+KUDL,Kudal
+KUN,Karnal
+KUR,Khurda Road Junction
+KYJ,Kayankulam Junction
+KYN,Kalyan Junction
+KYQ,Kamakhya
+LAR,Lalitpur
+LAU,Ladnun
+LDH,Ludhiana Junction
+LHU,Loharu
+LJN,Lucknow Ne
+LKO,Lucknow Nr
+LKU,Lal Kuan
+LMG,Lumding Junction
+LNL,Lonavala
+LOHA,Loha
+LTT,Lokmanyatilak T
+MAJN,Mangalore Junction
+MAKR,Malkhedi
+MAO,Madgaon
+MAS,Chennai Central
+MBSK,Marwar Balia
+MDB,Mandor
+MDPB,Madhopur Punjab
+MDS,Mandasor
+MED,Medchal
+MFB,UNKNOWN
+MGR,UNKNOWN
+MGS,Mughal Sarai Junction
+MHRG,Mahendragarh
+MIO,UNKNOWN
+MKN,Makrana Junction
+MKU,Malkapur
+MKX,Morak
+MLDT,Malda Town
+MML,Madan Mahal
+MMR,Manmad Junction
+MMU,UNKNOWN
+MNE,Mansi Junction
+MNGR,UNKNOWN
+MNI,Mangaon
+MOZ,Muzaffarnagar
+MRJ,Miraj Junction
+MSWA,UNKNOWN
+MTC,Meerut City
+MTD,Merta Road Junction
+MTJ,Mathura Junction
+MUE,Mudkhed
+MULK,Mulki
+MUR,Mankapur Junction
+MVLK,Mavelikara
+MYR,Maihar
+MZR,Murtajapur
+NAD,Nagda Junction
+NBQ,New Bongaigaon
+NCB,New Cooch Behar
+ND,Nadiad Junction
+NDB,Nandurbar
+NDLS,New Delhi
+NED,UNKNOWN
+NFK,New Farakka Junction
+NGP,Nagpur
+NHGJ,New Harangajao
+NHR,Nohar
+NJP,New Jalpaiguri
+NK,Nasik Road
+NLR,Nellore
+NMH,Nimach
+NOQ,New Alipurdaur
+NPS,Napasar
+NRWI,Narwasi
+NU,Narsinghpur
+NUH,Naugarh
+NZB,Nizamabad
+NZM,H Nizamuddin
+OGL,Ongole
+PAU,Purna Junction
+PBC,UNKNOWN
+PGT,Palakkad
+PIH,Parhihara
+PJP,UNKNOWN
+PKA,Pradhankhunta
+PKR,Pakur
+PKY,UNKNOWN
+PLJE,Phulwartanr
+PLNI,Palani
+PLO,Pulgaon Junction
+PNBE,Patna Junction
+PND,Pendra Road
+PNP,Panipat Junction
+PNVL,Panvel
+POU,Padrauna
+POY,UNKNOWN
+PPI,Pipariya
+PRUR,UNKNOWN
+PSA,Palasa
+PTA,Patiala
+PTK,Pathankot
+PTKC,Pathankot Cantt
+PUNE,Pune Junction
+PURI,Puri
+PW,Pirwa
+QLN,Kollam Junction
+R,Raipur Junction
+RAA,Barara
+RAJP,Rajapur Road
+RDT,Ravtha Road
+RE,Rewari
+REN,Ren
+REWA,Rewa
+RIG,Raigarh
+RJPB,Rjndr Ngr Bihar
+RJR,Rajaldesar
+RJT,Rajkot Junction
+RJY,Rajamundry
+RK,Roorkee
+RKL,Ramkola
+RMA,Ramganj Mandi
+RN,Ratnagiri
+RNY,Rangiya Junction
+ROHA,Roha
+ROK,Rohtak Junction
+ROU,Rourkela
+RPH,Rampur Hat
+RPJ,Rajpura Junction
+RPO,UNKNOWN
+RSNR,Rai Singh Nagar
+RTGH,Ratangarh Junction
+RTM,Ratlam Junction
+SA,Salem Junction
+SBDP,UNKNOWN
+SBM,Sonbarsa Kcheri
+SBV,S Bhakhtiyarpur
+SC,Secunderabad Junction
+SCL,Silchar
+SDF,Sudsar
+SDGH,Sri Dungargarh
+SDL,Shahdol
+SDLP,Sadulpur Junction
+SDMK,Sidmukh
+SDS,Sadulshahr
+SEG,Shegaon
+SGNR,Shri Ganganagar
+SGO,Saugor
+SGR,Sangmeshwar
+SHC,Saharsa Junction
+SHG,Shahganj Junction
+SHR,Sihora Road
+SJNP,Sujanpur
+SMBX,Samba
+SMNN,UNKNOWN
+SMQL,Shamli
+SNDD,Sindhudurg
+SNP,Sonipat
+SOG,Suratgarh Junction
+SOT,UNKNOWN
+SRC,Santragachi Junction
+SRE,Saharanpur
+SRKN,Sherekan
+SRPR,Sarupsar Jn
+SRW,Shri Karanpur
+SRZ,UNKNOWN
+SSA,Sirsa
+SSW,UNKNOWN
+ST,Surat
+STA,Satna
+STN,Sitarampur
+STR,Satara
+SUJH,Sujangarh
+SUNR,Surendranagar
+SV,Siwan Junction
+SVDK,Shmata V D Ktra
+SVO,Sanvrad
+SWA,Sahjanwa
+SWM,Sawai Madhopur
+SWNI,Siwani
+SWV,Sawantwadi Road
+SZE,UNKNOWN
+TATA,Tatanagar Junction
+TCR,Thrisur
+TDW,UNKNOWN
+THE,Thawe Jn
+THVM,Thivim
+TIBI,Tibi
+TLC,Talchhapar
+TLI,Tulwara Jhil
+TNA,Thane
+TNO,UNKNOWN
+TNW,UNKNOWN
+TOI,Tamkuhi Road
+TPZ,Tapri
+TRVL,Tiruvalla
+TSD,Tahsil Bhadra
+TUP,Tiruppur
+TVC,Trivandrum Cntl
+UD,Udupi
+UDT,UNKNOWN
+UDZ,Udaipur City
+UHP,Udhampur
+UJN,Ujjain Junction
+ULT,Kulti
+UMB,Ambala Cant Junction
+UMNR,UNKNOWN
+UMR,Umaria
+URK,Urkura
+VAPI,Vapi
+VBW,Vaibhavwadi Road
+VG,Viramgam Junction
+VJPJ,Vijiypur Jammu
+VSKP,Vishakapatnam
+VZM,Vizianagram Junction
+WHM,Washim
+WKR,Wankaner Junction
+WR,Wardha Junction
+YJUD,Yamunanagar Jud
+ZPR,UNKNOWN
